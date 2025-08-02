@@ -42,9 +42,11 @@
 依赖安装
 
 确保 Python 环境安装了以下依赖：
+```python
 
 pip install PyQt5 PyQtWebEngine pywin32
-
+```
 运行程序
-
+```batch
 python listen.py
+```
